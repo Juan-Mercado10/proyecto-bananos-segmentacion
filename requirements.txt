@@ -1,0 +1,8 @@
+torch
+torchvision
+ultralytics
+git+https://github.com/ultralytics/CLIP.git
+gradio
+opencv-python-headless
+numpy
+pillow
