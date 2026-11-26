@@ -1,14 +1,3 @@
-\---
-
-title: Control de Calidad de Banano
-emoji: 🍌
-colorFrom: yellow
-colorTo: green
-sdk: gradio
-app\_file: app.py
-pinned: false
----
-
 # Control de calidad de bananos — segmentación por instancia y clasificación de estado
 
 Proyecto final de **Aprendizaje Computacional** (Ingeniería de Sistemas, Universidad de Córdoba).
